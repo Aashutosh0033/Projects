@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin:0px;
+    color: white;
+    
+    
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Black+Han+Sans&family=Charm&family=Charmonman&family=Clicker+Script&family=Great+Vibes&family=Parisienne&family=Prata&family=Rammetto+One&family=Sacramento&family=Sorts+Mill+Goudy&family=Unna&display=swap');
+
+body{
+    background-color:#FFAA33;  
+    height: 100%;
+}
+
+
+.container-fluid{
+    margin-top: 20vh;
+    font-family: 'Bowlby One', cursive;
+    font-size: 2em;
+    text-align: center;
+}
+
+.text-uppercase{
+    font-size: 2em;
+    animation-name: Name;
+    animation-duration: 1.5s;
+}
+
+
+
+
+
+
+.img-fluid{
+    width:20vw;
+    animation-name: Image;
+    animation-duration: 1.5s;
+}
+
+@keyframes Image{
+    0%{
+        /* width:15vw; */
+        margin-right: 80%;
+    }
+
+    50%{
+        /* width:10vw; */
+        margin-right: -10%;
+    }
+
+    100%{
+        margin-right: 0%;
+    }
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
