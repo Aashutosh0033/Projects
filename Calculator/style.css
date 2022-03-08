@@ -1,0 +1,43 @@
+.box{
+    text-align: center;
+    margin-top:10rem;
+    width: 23rem;
+    border: 2px solid ;
+    background-color: 	#D3D3D3;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 3px 5px 5px black;
+
+}
+
+.buttons{
+    margin: auto;
+    
+}
+
+.row{
+    padding: 3px;
+}
+
+.col{
+    padding: 3px;
+}
+
+input{
+    font-size: 28px;
+    width: 15.5rem;
+    height: 3rem;
+    border: 2px solid black;
+    border-radius: 13px;
+}
+
+button{
+    font-size: 25px;
+    background-color: #A9A9A9;
+    width: 60px;
+    height: 60px;
+    border-radius: 15px;
+    box-shadow: 2px 4px 4px black;
+}
+button:hover {background-color: #DCDCDC;}
+
